@@ -10,7 +10,7 @@ int main(void)
     printf("hou\nbo\n");
 
     printf("hou");
-    printf("bo");
+    printf("bo\n");
     
     return 0;
 
