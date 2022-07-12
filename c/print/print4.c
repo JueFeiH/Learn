@@ -20,9 +20,11 @@ int main(void)
 void br(void)
 {
     printf("Brazil,Russia");
+    return;
 }
 
 void ic(void)
 {
     printf("India,China");
+    return;
 }
