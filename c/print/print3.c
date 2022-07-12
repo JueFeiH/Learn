@@ -1,4 +1,3 @@
-//把打印一句固定的话写成函数并多次打印
 #include <stdio.h>
 
 void jolly(void);
