@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//这个字符串打印emmmm
 void br(void);
 void ic(void);
 
