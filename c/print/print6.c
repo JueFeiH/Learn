@@ -1,4 +1,4 @@
-//斯麦鲁超人
+//斯麦鲁超人 smile smile smile
 #include <stdio.h>
 
 void smile(void);
